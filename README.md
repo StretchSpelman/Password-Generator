@@ -12,7 +12,7 @@ N/A
 ## Usage
 Webpage: https://stretchspelman.github.io/Password-Generator/
 
-![Alt text](02-Challenge\Assets\03-Screenshot.png)
+![Alttext](/Assets/03-Screenshot.png)
 
 ## Credits
 N/A
