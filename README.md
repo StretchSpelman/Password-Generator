@@ -10,9 +10,9 @@
 N/A
 
 ## Usage
-Webpage: https://stretchspelman.github.io/Portfolio-challenge/
+Webpage: https://stretchspelman.github.io/Password-Generator/
 
-![alt text] (assets\images\portfolio-challenge-screenshot.png)
+![Alt text](02-Challenge\Assets\03-Screenshot.png)
 
 ## Credits
 N/A
