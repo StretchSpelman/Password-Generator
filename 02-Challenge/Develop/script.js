@@ -4,6 +4,8 @@ var uppercaseLetters = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N',
 var specialCharacters = ['!','@','#','$','%','^','&','*','(',')','_','+','[',']','{','}','|',';',':',',','.','<','>','?'];
 var numbers = ['0','1','2','3','4','5','6','7','8','9'];
 
+var generatePassword = function() {
+}
 
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
